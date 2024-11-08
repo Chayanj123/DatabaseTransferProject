@@ -1,0 +1,2 @@
+2024-07-31 06:39:54,881 - INFO - Starting data transfer from MySQL to Oracle for table your_table
+2024-07-31 06:39:54,957 - ERROR - Error during data transfer: Unsupported argument 'MYSQL_HOST'
